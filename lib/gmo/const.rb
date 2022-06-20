@@ -113,6 +113,7 @@ module GMO
       :register_disp_8       => "RegisterDisp8",
       :reserve_no            => "ReserveNo",
       :ret_url               => "RetURL",
+      :ret_url_3d_secure     => "RetUrl",
       :security_code         => "SecurityCode",
       :seq_mode              => "SeqMode",
       :service_name          => "ServiceName",
